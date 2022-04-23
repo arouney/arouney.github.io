@@ -362,7 +362,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #012622;
+	background: #003B36;
 	position: absolute;
 	left: -17px;
 	top: 11px;
@@ -681,7 +681,7 @@ input[type="password"]:focus,
 textarea:focus,
 select:focus {
 	color: #1c0d02;
-	border-bottom: 1px solid #4C2405;
+	border-bottom: 1px solid #003B36;
 }
 
 label,
@@ -749,7 +749,7 @@ select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
 	border: none;
-	-webkit-text-fill-color: #012622;
+	-webkit-text-fill-color: #003B36;
 	transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -1244,7 +1244,7 @@ input::-moz-focus-inner {
 .section-intro h3 {
 	font-family: "montserrat-bold", sans-serif;
 	font-size: 2rem;
-	color: #4C2405;
+	color: #003B36;
 	text-transform: uppercase;
 	letter-spacing: .15rem;
 	margin-bottom: 0;
@@ -2221,7 +2221,7 @@ header .header-logo a {
 
 #skills .section-intro h3 {
 	color: rgba(255, 255, 255, 0.35);
-	color: #7c3b08;
+	color: #003B36;
 }
 
 #skills .section-intro h1 {
@@ -2233,7 +2233,7 @@ header .header-logo a {
 }
 
 #skills .skill-bars li {
-	background: #7c3b08;
+	background: #003B36;
 	margin-bottom: 7.2rem;
 }
 
@@ -2913,13 +2913,13 @@ header .header-logo a {
 	padding: 0 3rem;
 	margin-top: 4.8rem;
 	width: 100%;
-	background: #012622;
+	background: #003B36;
 	color: #FFFFFF;
 }
 
 #contact button.submitform:hover,
 #contact button.submitform:focus {
-	background: #012622;
+	background: #003B36;
 }
 
 #message-warning,
@@ -2936,7 +2936,7 @@ header .header-logo a {
 }
 
 #message-success {
-	color: #7c3b08;
+	color: #003B36;
 }
 
 #message-warning i,
