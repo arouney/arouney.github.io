@@ -1072,7 +1072,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-	color: #4C2405;
+	color: #003B36;
 }
 
 .stats-tabs li a em {
@@ -1362,7 +1362,7 @@ header .header-logo a {
 	border: none;
 	width: 60px;
 	height: 60px;
-	background: url("../images/A.png") no-repeat center;
+	background: url(<img src="A.png" alt="Website Logo">) no-repeat center;
 	background-size: 60px 60px;
 	font: 0/0 a;
 	text-shadow: none;
@@ -1636,7 +1636,7 @@ header .header-logo a {
 	background: #151515;
 	width: 100%;
 	height: 100%;
-	background-image: url(../images/trainStationpic.jpeg;
+	background-image: <img src="trainStation.jpeg">;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -1952,7 +1952,7 @@ header .header-logo a {
 	height: 100%;
 	background: #EBEBEB;
 	width: 50%;
-	background-image: url(../images/profile-bg.jpg);
+	background-image: <img src="fblapic.jpeg">;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -2294,7 +2294,7 @@ header .header-logo a {
 
 #credentials .credentials-content h2 {
 	margin-bottom: 4.8rem;
-	color: #012622;
+	color: #003B36;
 	padding-left: 8rem;
 	font-size: 1.8rem;
 	text-transform: uppercase;
@@ -2348,7 +2348,7 @@ header .header-logo a {
 	height: 4.8rem;
 	width: 4.8rem;
 	line-height: 4.8rem;
-	background: #012622;
+	background: #003B36;
 	border-radius: 50%;
 	text-align: center;
 	color: #FFFFFF;
@@ -2764,7 +2764,7 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 #contact {
 	background-color: #111111;
-	background-image: url(../images/profile-bg.jpg);
+	background-image: <img src="headshot.jpeg">;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -2865,7 +2865,7 @@ header .header-logo a {
 	margin-top: -6px;
 	border-top: 5px solid transparent;
 	border-bottom: 5px solid transparent;
-	border-right: 5px solid #4C2405;
+	border-right: 5px solid #003B36;
 	content: "";
 }
 
